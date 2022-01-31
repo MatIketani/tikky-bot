@@ -1,4 +1,4 @@
 # Tikky Bot
-Bot desenvolvido por mim e por alguns colegas em 2020, agora colocado em código aberto.
+Discord Bot developed in Python with discord.py by me and some friends in 2020.
 
-Por ser um projeto antigo e bem pouco customizável, rodar esse bot pode te causar MUITOS bugs, recomendo o uso somente para estudo.
+I DO NOT recommend the use of this bot, just use it for study purposes.
