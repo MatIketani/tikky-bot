@@ -1,2 +1,2 @@
-# tikky-bot
-Bot feito por mim e uns colegas em 2020.
+# Tikky Bot
+Bot desenvolvido por mim e por alguns colegas em 2020, agora colocado em código aberto.
